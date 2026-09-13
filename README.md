@@ -222,7 +222,7 @@ Contains application constants and configuration values.
 Clone the repository:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Tahapishnahad/Console-Task-Manager
 ```
 
 Open the project in your IDE and run:
